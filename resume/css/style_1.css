@@ -1,0 +1,60 @@
+body {
+  background-color: #a3d5d3;
+  font-family: "Microsoft YaHei";
+}
+
+dl{
+  margin: 0 20px 20px 0;
+  float: left;
+}
+dl dt{
+  float: left;
+  font-weight:bold; 
+  margin: 0;
+}
+
+div.header{
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.baseinfo dl dt{
+  float: left;
+  font-weight:bold; 
+}
+
+.baseinfo dl dd{
+  float: left;
+  margin: 0 10px 0 10px;
+}
+
+.contactDetails dl dt{
+  float: left;
+  font-weight:bold; 
+}
+.contactDetails dl dd{
+  float: left;
+  margin: 0 10px 0 10px;
+}
+
+div{
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+h2{
+  clear: both;
+}
+
+.item{
+  font-weight:bold; 
+}
+
+.item > p{
+  margin:0px;
+}
+
+.sub-item{
+	display: block;
+	font-weight: bold;
+}

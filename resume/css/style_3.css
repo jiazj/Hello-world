@@ -1,0 +1,101 @@
+.body{
+	position: relative;
+    font-family: "Microsoft YaHei";
+	color: #5D5D5B;
+}
+
+div.header{
+	position: absolute;
+	float: top;
+	width: 100%;
+	height: 50px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin: 0;
+	color:#fff;
+	background-color: #858585;
+	font-size: 32px;
+}
+
+
+.jlbody{
+	position: absolute;
+	float: top;
+	top: 78px;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.baseinfo,.contactDetails,.ability,.edu,.pro{
+	border: 1px solid #E9E9E9;
+	width: 100%;
+	height: 100px;
+	clear: left;
+}
+
+.title{
+	position:relative;
+	float: left;
+	height: 100px;
+	width:100px;
+	margin:0;
+	padding-left: 20px;
+	background-color:#D6D6D6;
+}
+
+.title h2{
+	display: block;
+	    transform: translate(10px,28px);
+	-ms-transform: translate(10px,28px);	 	/* IE 9 */
+-webkit-transform: translate(10px,28px);	    /* Safari and Chrome */
+     -o-transform: translate(10px,28px);		/* Opera */
+   -moz-transform: translate(10px,28px);		/* Firefox */	
+}
+
+.detail{
+	padding: 10px 10px;
+	margin-left:20px;
+}
+
+.sub-item{
+	display: inline;
+	font-weight: bold;
+	margin-left:20px;
+}
+
+h2{
+	font-size: 14px;
+	clear: both;
+}
+
+dl{
+  margin: 0 20px 20px 20px;
+  float: left;
+}
+
+dl dt{
+  float: left;
+  font-weight:bold; 
+}
+
+.baseinfo dl dt{
+  float: left;
+  font-weight:bold; 
+}
+
+.baseinfo dl dd{
+  float: left;
+  margin: 0 10px 0 10px;
+}
+
+.contactDetails dl dt{
+  float: left;
+  font-weight:bold; 
+}
+.contactDetails dl dd{
+  float: left;
+  margin: 0 10px 0 10px;
+}
+
+

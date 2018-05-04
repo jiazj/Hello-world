@@ -1,0 +1,68 @@
+body{	
+    font-family: "Microsoft YaHei";
+}
+.header{
+	position: absolute;
+	float:left;
+	width: 	100px;
+	height: 125%;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	color:#fff;
+	background-color: #65a5fa;
+
+	font-size: 32px;
+	font-weight: bold;
+
+}
+
+.jlbody{
+	position: absolute;
+	float: left;
+	left: 220px;	
+}
+
+
+
+dl{
+  margin: 0 20px 20px 0;
+  float: left;
+}
+dl dt{
+  float: left;
+  font-weight:bold; 
+}
+
+
+.baseinfo dl dt{
+  float: left;
+  font-weight:bold; 
+}
+
+.baseinfo dl dd{
+  float: left;
+  margin: 0 10px 0 10px;
+}
+
+.contactDetails dl dt{
+  float: left;
+  font-weight:bold; 
+}
+.contactDetails dl dd{
+  float: left;
+  margin: 0 10px 0 10px;
+}
+
+div{
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+h2{
+  clear: both;
+}
+.sub-item{
+	display: block;
+	font-weight: bold;
+}
